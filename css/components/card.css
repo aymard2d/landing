@@ -3,6 +3,8 @@
   background: white;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   margin: 0 5px;
+  height: 400px;
+  justify-content: space-around;
 }
 
 .card-service > img {
@@ -39,8 +41,13 @@
 }
 
 .avatar-bordered {
-  width: 40px;
+  width: 50px;
   border-radius: 50%;
   box-shadow: 0 1px 2px rgba(0,0,0,0.2);
   border: white 1px solid;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
 }
