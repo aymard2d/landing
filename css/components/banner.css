@@ -1,0 +1,33 @@
+.btn-cta {
+  color: #999999;
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  opacity: 0.6;
+}
+
+.btn-cta:hover {
+  opacity: 0.5;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+}
+
+.banner {
+  height: 300px;
+}
+
+.banner h1 {
+  text-align: center;
+  color: white;
+  text-decoration: overline;
+  font-family: sans-serif;
+}
+
+.banner a {
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+}
